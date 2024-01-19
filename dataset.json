@@ -1,0 +1,352 @@
+[
+  {
+    "ItemNo": 1,
+    "Element": "Bolt",
+    "Symbol": "M8X12",
+    "Weight": 0.0093,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 2,
+    "Element": "Bolt",
+    "Symbol": "M8X14",
+    "Weight": 0.00994,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 3,
+    "Element": "Bolt",
+    "Symbol": "M8X16",
+    "Weight": 0.0106,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 4,
+    "Element": "Bolt",
+    "Symbol": "M10X12",
+    "Weight": 0.0164,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 5,
+    "Element": "Bolt",
+    "Symbol": "M10X12",
+    "Weight": 0.0164,
+    "Material": "Stainless Steel",
+    "Surface": "Black",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 6,
+    "Element": "Bolt",
+    "Symbol": "M10X14",
+    "Weight": 0.0174,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 7,
+    "Element": "Bolt",
+    "Symbol": "M10X16",
+    "Weight": 0.0184,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 8,
+    "Element": "Bolt",
+    "Symbol": "M12X12",
+    "Weight": 0.0239,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 9,
+    "Element": "Bolt",
+    "Symbol": "M12X14",
+    "Weight": 0.0253,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 10,
+    "Element": "Bolt",
+    "Symbol": "M12X16",
+    "Weight": 0.0267,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8.8,
+    "DIN": 933
+  },
+  {
+    "ItemNo": 11,
+    "Element": "Nut",
+    "Symbol": "M8",
+    "Weight": 0.00531,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 12,
+    "Element": "Nut",
+    "Symbol": "M8",
+    "Weight": 0.00531,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 10,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 13,
+    "Element": "Nut",
+    "Symbol": "M10",
+    "Weight": 0.00984,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 14,
+    "Element": "Nut",
+    "Symbol": "M12",
+    "Weight": 0.015,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 15,
+    "Element": "Nut",
+    "Symbol": "M12",
+    "Weight": 0.015,
+    "Material": "Brass",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 16,
+    "Element": "Nut",
+    "Symbol": "M14",
+    "Weight": 0.0242,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 17,
+    "Element": "Nut",
+    "Symbol": "M14",
+    "Weight": 0.0242,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 10,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 18,
+    "Element": "Nut",
+    "Symbol": "M14",
+    "Weight": 0.0242,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 12,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 19,
+    "Element": "Nut",
+    "Symbol": "M16",
+    "Weight": 0.0362,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 20,
+    "Element": "Nut",
+    "Symbol": "M18",
+    "Weight": 0.0495,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 8,
+    "DIN": 934
+  },
+  {
+    "ItemNo": 21,
+    "Element": "Washer",
+    "Symbol": "d8",
+    "Weight": 0.00183,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 200,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 22,
+    "Element": "Washer",
+    "Symbol": "d11",
+    "Weight": 0.00357,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 200,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 23,
+    "Element": "Washer",
+    "Symbol": "d13",
+    "Weight": 0.00627,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 200,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 24,
+    "Element": "Washer",
+    "Symbol": "d15",
+    "Weight": 0.00861,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 200,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 25,
+    "Element": "Washer",
+    "Symbol": "d17",
+    "Weight": 0.0113,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 200,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 26,
+    "Element": "Washer",
+    "Symbol": "d17",
+    "Weight": 0.0113,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 140,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 27,
+    "Element": "Washer",
+    "Symbol": "d17",
+    "Weight": 0.0113,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 300,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 28,
+    "Element": "Washer",
+    "Symbol": "d19",
+    "Weight": 0.0147,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 140,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 29,
+    "Element": "Washer",
+    "Symbol": "d19",
+    "Weight": 0.0147,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 200,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 30,
+    "Element": "Washer",
+    "Symbol": "d19",
+    "Weight": 0.0147,
+    "Material": "Stainless Steel",
+    "Surface": "Electrolytic zync",
+    "PropClass": 300,
+    "DIN": 125
+  },
+  {
+    "ItemNo": 31,
+    "Element": "Bolt",
+    "Symbol": "M12X45",
+    "Weight": 0.0621,
+    "Material": "Stainless Steel",
+    "Surface": "HDG",
+    "PropClass": 10.9,
+    "DIN": 6914
+  },
+  {
+    "ItemNo": 32,
+    "Element": "Bolt",
+    "Symbol": "M12X50",
+    "Weight": 0.0666,
+    "Material": "Stainless Steel",
+    "Surface": "HDG",
+    "PropClass": 10.9,
+    "DIN": 6914
+  },
+  {
+    "ItemNo": 33,
+    "Element": "Bolt",
+    "Symbol": "M16X45",
+    "Weight": 0.113,
+    "Material": "Stainless Steel",
+    "Surface": "HDG",
+    "PropClass": 10.9,
+    "DIN": 6914
+  },
+  {
+    "ItemNo": 34,
+    "Element": "Bolt",
+    "Symbol": "M16X50",
+    "Weight": 0.121,
+    "Material": "Stainless Steel",
+    "Surface": "HDG",
+    "PropClass": 10.9,
+    "DIN": 6914
+  },
+  {
+    "ItemNo": 35,
+    "Element": "Bolt",
+    "Symbol": "M20X45",
+    "Weight": 0.188,
+    "Material": "Stainless Steel",
+    "Surface": "HDG",
+    "PropClass": 10.9,
+    "DIN": 6914
+  }
+]
